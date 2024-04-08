@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02d0f081.css",
+    "main.js": "/static/js/main.dec618b1.js",
+    "static/media/veio.png": "/static/media/veio.8ec5456b8726a1fa6def.png",
+    "index.html": "/index.html",
+    "main.02d0f081.css.map": "/static/css/main.02d0f081.css.map",
+    "main.dec618b1.js.map": "/static/js/main.dec618b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d0f081.css",
+    "static/js/main.dec618b1.js"
+  ]
+}
